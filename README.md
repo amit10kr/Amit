@@ -1,1 +1,1 @@
-# Amit
+Hotel Reservation System
